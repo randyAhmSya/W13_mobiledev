@@ -24,3 +24,10 @@ jawaban dari soal 4
 ![alt text](image-4.png)
 ![alt text](image-5.png)
 warna dari background sapat berganti setiap  1 detik 
+
+
+jawaban daru soal 5
+![alt text](image-6.png)
+listen digunakan untuk mendengarkan stream secara asyncron dan menjalankan calback setiap ada data baru serta tidak memblokir eksekusi setelah listen di jalan kan tetapi harus menutup stream dengan cancel () jika tidak di butuhkan.
+
+await for Digunakan dalam fungsi asinkron untuk menunggu data stream satu per satu serta Memblokir eksekusi, menunggu stream selesai sebelum melanjutkan kode berikutnya dan Tidak memerlukan penutupan stream eksplisit, karena stream berakhir secara alami.
