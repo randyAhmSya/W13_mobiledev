@@ -30,6 +30,11 @@ class StreamHomePage extends StatefulWidget {
 class _StreamHomePageState extends State<StreamHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("state management"),
+        backgroundColor: Colors.red,
+      ),
+    );
   }
 }
