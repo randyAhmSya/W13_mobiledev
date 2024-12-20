@@ -1,16 +1,11 @@
-# lanjutan_state_management
+jawaban dari soal nomor 1
+![alt text](image.png)
+![alt text](image-1.png)
 
-A new Flutter project.
+gambar di atas saya tambahkan scafold untuk menghias di karenakan pada modul nya tidak ada apa apa nya dikarenakan hanya membuat judul dari project nya.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+jawaban dari soal 2
+![alt text](image-2.png)
+membuat class untuk meanmpung semua color
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
