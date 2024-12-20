@@ -13,7 +13,7 @@ class ColorStream {
     Colors.purple
   ];
 
-  Stream<Color> getColor() async* {
+  Stream<Color> getColors() async* {
     yield* Stream.periodic(
       const Duration(seconds: 1),
       (int t) {

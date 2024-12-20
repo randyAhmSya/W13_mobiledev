@@ -17,3 +17,10 @@ stream periodic digunakan untuk mebuat stream yang menghasilkan event baru setia
 fungsi calback (int t) nanti akan di panggil setiap kali menghasilkan event, t akan bertambah setiap kali event di lakukan (dimulai dari 0)
 t % colors.length memastikan indeks warna diambil secara siklikal dari list colors. seperti perulangan warna jika terdapat 3 warna maka akan berulang secara ururt pada 3 warna tersebut.
 yield* Meneruskan semua nilai dari Stream.periodic ke dalam stream utama yang dihasilkan oleh getColor().
+
+
+jawaban dari soal 4
+
+![alt text](image-4.png)
+![alt text](image-5.png)
+warna dari background sapat berganti setiap  1 detik 
